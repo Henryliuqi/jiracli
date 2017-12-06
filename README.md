@@ -283,7 +283,7 @@ Write resources to myrelease_version.xlsx
 
 ### Join the development
 
-join the development by create pull request to the stash repository.  Jimmy Chen is creating the initial version and it is welcomed to fix the bugs and create more functionality basing on the jirabase modules. 
+join the development by create pull request to the stash repository.  Henry Liu is creating the initial version and it is welcomed to fix the bugs and create more functionality basing on the jirabase modules. 
 
 [jiracli_arch]: ./document/jiracli_arch.jpg
 
